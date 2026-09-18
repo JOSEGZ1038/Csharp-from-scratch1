@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="Average_of_Four/Average_of_Four.csproj" />
+  <Project Path="Circle-Perimeter/Circle-Perimeter.csproj" />
+  <Project Path="Double_or_Triple/Double_or_Triple.csproj" />
+  <Project Path="Factorial_Finder/Factorial_Finder.csproj" />
+  <Project Path="Fraction_Difference/Fraction_Difference.csproj" />
+  <Project Path="InRange_Validator/InRange_Validator.csproj" />
+  <Project Path="Midweek_Day/Midweek_Day.csproj" />
+  <Project Path="Positive_Power/Positive_Power.csproj" />
+  <Project Path="Remainder_Finder/Remainder_Finder.csproj" />
+  <Project Path="Root_or_Square/Root_or_Square.csproj" />
+  <Project Path="Smallest_of_Five/Smallest_of_Five.csproj" />
+  <Project Path="String_Length/String_Length.csproj" />
+  <Project Path="Sum_of_Evens/Sum_of_Evens.csproj" />
+  <Project Path="Tax_Calculator/Tax_Calculator.csproj" />
+  <Project Path="Vowel_Counter/Vowel_Counter.csproj" />
+</Solution>
